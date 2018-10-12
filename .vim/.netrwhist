@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/george.lee/ansible/roles/aurora'
+let g:netrw_dirhist_2='/home/george.lee/ansible/dev/group_vars/parameter_a'
+let g:netrw_dirhist_3='/home/george.lee/ansible/roles/env_config/templates'
